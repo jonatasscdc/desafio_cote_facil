@@ -52,9 +52,11 @@ Este projeto contém os seguintes arquivos:
 `compra_agora.py`: O arquivo que define a classe CompraAgoraSpider, que é o spider responsável por raspar os dados do site.
 
 ##Contribuições
+
 Contribuições são bem-vindas! Se você tem alguma sugestão, correção ou melhoria para o projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
 
 ##Licença
+
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Autor
