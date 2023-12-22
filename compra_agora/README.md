@@ -30,15 +30,25 @@ Onde `compra_agora` é o nome do spider, `-o` é a opção para especificar o ar
 Este projeto contém os seguintes arquivos:
 
 `README.md`: Este arquivo, que apresenta o projeto e explica como usá-lo.
+
 `scrapy.cfg`: O arquivo de configuração do Scrapy, que define as configurações globais do projeto.
+
 `compra_agora/`: A pasta que contém o código do spider e os itens.
+
 `__init__.py`: O arquivo que inicializa o pacote do projeto.
+
 `items.py`: O arquivo que define a classe CompraAgoraItem, que representa um item raspado do site.
+
 `middlewares.py`: O arquivo que define os middlewares do projeto, que são componentes que processam as requisições e as respostas do spider.
+
 `pipelines.py`: O arquivo que define os pipelines do projeto, que são componentes que processam os itens raspados pelo spider.
+
 `settings.py`: O arquivo que define as configurações específicas do projeto, como o nome do spider, o user-agent, o limite de requisições, etc.
+
 `spiders/`: A pasta que contém o código do spider.
+
 `__init__.py`: O arquivo que inicializa o pacote dos spiders.
+
 `compra_agora.py`: O arquivo que define a classe CompraAgoraSpider, que é o spider responsável por raspar os dados do site.
 
 ##Contribuições
